@@ -32,7 +32,7 @@
          <backgroundColor>00000000</backgroundColor>
          <color>ca9d5f</color>
          <fontPath>./_inc/fonts/BeVietnamPro-BlackItalic.ttf</fontPath>
-	     <fontSize>0.04</fontSize>
+	     <fontSize>0.042</fontSize>
          <zIndex>5</zIndex>	     
       </text>            
    </view>
@@ -43,7 +43,6 @@
          <fontPath>./_inc/fonts/BeVietnamPro-BlackItalic.ttf</fontPath>
          <textColor>101010</textColor>
          <iconColor>101010</iconColor>
-         <fontSize>0.01</fontSize>
       </helpsystem>
    </view>  
 
@@ -52,7 +51,6 @@
          <fontPath>./_inc/fonts/BeVietnamPro-BlackItalic.ttf</fontPath>
          <textColor>101010</textColor>
          <iconColor>101010</iconColor>
-         <fontSize>0.02</fontSize>
       </helpsystem>
    </view>  
 
