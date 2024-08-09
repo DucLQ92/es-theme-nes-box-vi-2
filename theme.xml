@@ -12,9 +12,9 @@ version         1.9
    <formatVersion>7</formatVersion>
    <include>./main.xml</include>
     <variables>
-	 <fullscreenfixSubsetname>Kích cỡ màn hình Emulationstation</fullscreenfixSubsetname>
+	 <fullscreenfixSubsetname>Kích cơ màn hình Emulationstation</fullscreenfixSubsetname>
 	 <fontsize>Cơ Chư</fontsize>
-     <colorSubsetname>Màu chủ đề</colorSubsetname>
+     <colorSubsetname>Màu chu đê</colorSubsetname>
    </variables>
    
 	<subset name="Emulationstation Screen" displayName="${fullscreenfixSubsetname}">
